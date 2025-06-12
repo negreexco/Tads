@@ -11,6 +11,7 @@ O repositório está organizado da seguinte forma:
 - `SD - JSockets.zip`: Aplicação de comunicação utilizando sockets em Java.
 - `main (1).c`: Código em C desenvolvido para atividades acadêmicas.
 - `trabalho de BD1.zip`: Projeto relacionado à disciplina de Banco de Dados I.
+- `LeandroSousa.zip`: Projeto relacionado à disciplina de Programação Web I.
 
 ## 🛠️ Tecnologias Utilizadas
 
